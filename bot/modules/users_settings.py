@@ -1199,7 +1199,7 @@ Format: key:value|key:value|key:value.
 Example: format:bv*+mergeall[vcodec=none]|nocheckcertificate:True
 
 Check all yt-dlp api options from this <a href='https://github.com/yt-dlp/yt-dlp/blob/master/yt_dlp/YoutubeDL.py#L184'>FILE</a>
-or use this <a href='https://t.me/mltb_official_channel/177'>script</a> to convert cli arguments to api options.
+or use this <a href='https://t.me/KeralaLeech'>script</a> to convert cli arguments to api options.
 """
         await edit_message(
             message,
